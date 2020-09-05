@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "David J. Hendry"
   avatar           : "profile.png"
-  bio              : "Political Scientist,\nAssistant Professor, Department of Methodology\nLondon School of  Economics and Political Science"
-  location         : "Location"
+  bio              : "Political Scientist,<br/>Assistant Professor, Department of Methodology,<br/>London School of Economics and Political Science"
+  location         : "London, United Kingdom"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "d.hendry@lse.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
