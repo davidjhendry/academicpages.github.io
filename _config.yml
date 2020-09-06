@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "David J. Hendry"
-  avatar           : "profile.png"
-  bio              : "Political Scientist,<br/>Assistant Professor, [Department of Methodology](https://www.lse.ac.uk/methodology),<br/>[London School of Economics and Political Science](https://www.lse.ac.uk/)"
+  avatar           : "HendryProfessionalProfilePic.jpg"
+  bio              : "Political Scientist,<br/>Assistant Professor, <a href='https://www.lse.ac.uk/methodology'>Department of Methodology</a>,<br/><a href='https://www.lse.ac.uk/'>London School of Economics and Political Science</a>"
   location         : "London, United Kingdom"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "www.linkedin.com/in/davidjhendry-phd"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6873-6987"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
