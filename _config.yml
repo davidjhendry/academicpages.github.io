@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "David J. Hendry"
   avatar           : "HendryProfessionalProfilePic.jpg"
-  bio              : "Political Scientist,<br/>Assistant Professor, <a href='https://www.lse.ac.uk/methodology'>Department of Methodology</a>,<br/><a href='https://www.lse.ac.uk/'>London School of Economics and Political Science</a>"
+  bio              : "Political Scientist,<br/>Assistant Professor, <a style="text-decoration:none; color:black" href='https://www.lse.ac.uk/methodology'>Department of Methodology</a>,<br/><a style="text-decoration:none; color:black" href='https://www.lse.ac.uk/'>London School of Economics and Political Science</a>"
   location         : "London, United Kingdom"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/davidjhendry-phd"
+  linkedin         : "davidjhendry-phd"
   orcid            : "https://orcid.org/0000-0001-6873-6987"
   pinterest        :
   soundcloud       :
