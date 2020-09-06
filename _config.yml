@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "David J. Hendry"
   avatar           : "profile.png"
-  bio              : "Political Scientist,<br/>Assistant Professor, Department of Methodology,<br/>London School of Economics and Political Science"
+  bio              : "Political Scientist,<br/>Assistant Professor, [Department of Methodology](https://www.lse.ac.uk/methodology),<br/>[London School of Economics and Political Science](https://www.lse.ac.uk/)"
   location         : "London, United Kingdom"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=qBx_V8IAAAAJ&hl=en&oi=sra"
   email            : "d.hendry@lse.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/davidjhendry-phd"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@davidjhendry"
+  twitter          : "davidjhendry"
   vine             :
   weibo            :
   xing             :
