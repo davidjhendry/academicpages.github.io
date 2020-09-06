@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "David J. Hendry"
-title_separator          : "|"
+title_separator          : "\|"
 name                     : &name "David J. Hendry"
 description              : &description "Political Scientist"
 url                      : https://davidjhendry.github.io # the base hostname & protocol
