@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "David J. Hendry - London School of Economics and Political Science"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
