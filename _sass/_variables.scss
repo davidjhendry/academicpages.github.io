@@ -47,6 +47,7 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
+$black                      : #000000;
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -91,7 +92,7 @@ $xing-color                 : #006567;
 
 /* links */
 /*$link-color                 : $info-color;*/
-$link-color                 : $darker-gray;
+$link-color                 : $black;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
