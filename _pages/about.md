@@ -8,6 +8,22 @@ redirect_from:
   - /about.html
 ---
 
+You have reached the homepage of David J. Hendry. I am an Assistant Professor in the [Department of Methodology](https://www.lse.ac.uk/methodology) at the [London School of Economics and Political Science](https://www.lse.ac.uk/). I received my Ph.D. from the [Department of Political Science](https://pol.illinois.edu/) at the [University of Illinois](https://illinois.edu/). Previously, I was a postdoc at [Yale University](https://www.yale.edu/), where I was affiliated with the [Center for the Study of American Politics](https://csap.yale.edu/) in the [Institution for Social and Policy Studies](https://isps.yale.edu/), and an assistant professor at [Aarhus University](https://international.au.dk/), where I was affiliated with the [Department of Political Science](https://ps.au.dk/en/), the [Politics and Evolution Lab](https://ps.au.dk/en/research/research-projects/pone/), and the [Interacting Minds Centre](https://interactingminds.au.dk/). My research is primarily motivated by a desire to understand how social interactions lead to broad social and political changes, employing theoretical perspectives from social and evolutionary psychology, among others. I examine questions concerning racial and ethnic politics, political communication, cultural evolution, social network theory, and statistical methodology, to name a few. My substantive research employs a variety of methodological approaches, combining laboratory, field, and survey experiments, as well as observational and historical studies and computational simulations. In my methodological research, I focus primarily on event history methods.
+
+Here you will find links to my research and teaching pages, as well as my curriculum vitae.
+
+
+
+
+
+
+
+
+
+
+
+Nonsense
+======
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
