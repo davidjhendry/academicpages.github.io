@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+Althaus, Scott L., Nathaniel Swigger, Svitlana Chernykh, David J. Hendry, Sergio C. Wals, and Christopher Tiwald. 2011. "Assumed Transmission in Political Science: A Call for Bringing Description Back In." <i>Journal of Politics</i> 73(4): 1065-1080. doi: [10.1017/S0022381611000788](http://dx.doi.org/10.1017/S0022381611000788).
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
