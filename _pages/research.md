@@ -11,7 +11,7 @@ Althaus, Scott L., Nathaniel Swigger, Svitlana Chernykh, David J. Hendry, Sergio
 [[Online Appendix]](https://davidjhendry.github.io/files/AlthausEtAl2011/AlthausEtAl2011-AssumedTransmission-Appendix.pdf){:target="_blank"} [[Data]](https://davidjhendry.github.io/files/AlthausEtAl2011/AlthausEtAl2011-JOP-PublicReplicationArchive.zip){:target="_blank"}
 
 Hendry, David J., Robert A. Jackson, and Jeffery J. Mondak. 2009. "Abramoff, Email, and the Mistreated Mistress: Scandal and Character in the 2006 Elections." In <i>Fault Lines: Why the Republicans Lost Congress</i>, eds., Jeffery J. Mondak and Dona-Gene Mitchell. New York: Routledge pp. 84-110.<br/>
-[[Publisher]](https://www.routledge.com/Fault-Lines-Why-the-Republicans-Lost-Congress/Mondak-Mitchell/p/book/9780415993623){:target="_blank"}[[Google]](https://books.google.co.uk/books/about/Fault_Lines.html?id=vyoq5mYNlJAC&redir_esc=y)
+[[Publisher]](https://www.routledge.com/Fault-Lines-Why-the-Republicans-Lost-Congress/Mondak-Mitchell/p/book/9780415993623){:target="_blank"}[[Google]](https://books.google.co.uk/books/about/Fault_Lines.html?id=vyoq5mYNlJAC&redir_esc=y){:target="_blank"}
 <!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
